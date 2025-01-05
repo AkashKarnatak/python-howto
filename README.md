@@ -18,3 +18,8 @@ Add dependency
 ```
 uv add scipy
 ```
+
+Run file
+```
+uv run hello.py
+```
